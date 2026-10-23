@@ -11,5 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level02.unity
     guid: 9134a13117e845d42ad3d6a9bea9ae02
+  - enabled: 1
+    path: Assets/Scenes/Physics2D_Demo.unity
+    guid: d86c3bf760c688846a8381838c8f07b1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
